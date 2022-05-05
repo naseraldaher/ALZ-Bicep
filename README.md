@@ -1,1 +1,1 @@
-# ALZ-Bicep test bajs
+# ALZ-Bicep test
